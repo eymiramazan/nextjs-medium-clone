@@ -5,6 +5,9 @@
 /.pnp
 .pnp.js
 
+sanitymedium/node_modules
+sanitymedium/*
+
 # testing
 /coverage
 
@@ -35,3 +38,4 @@ yarn-error.log*
 
 # typescript
 *.tsbuildinfo
+*.vscode
